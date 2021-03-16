@@ -1,0 +1,16 @@
+header {
+    background-image: url(img/0_0VKK0Oitk2-tZp6t.jfif)
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+main {
+    font-style: italic;
+    color: midnightblue;
+}
+footer {
+    background-color: slategrey;
+}
+.piepag {
+    color: white;
+}
